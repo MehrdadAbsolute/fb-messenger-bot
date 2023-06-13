@@ -7,8 +7,4 @@ gunicorn==19.6.0
 itsdangerous==0.24
 requests==2.20.0
 Unidecode
-future, tox
-python-crfsuite==0.9.5
-Cython
-xgboost==0.82
-langflow
+https://github.com/hwchase17/langchain
